@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: tonytu2016
-baseurl: /StrayBirds
+baseurl: /myblogs
 markdown: redcarpet
 safe: false
 highlighter: pygments
